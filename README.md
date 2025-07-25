@@ -37,3 +37,15 @@ Strings are arrays of characters, so many array concepts apply. These problems o
 4. Longest Common Prefix (No. 14): Finding the longest common prefix among a list of strings.
 
 5. Implement strStr() (No. 28): A basic string searching algorithm (similar to indexOf()).
+
+# III. Hash Maps/Hash Sets
+
+Hash maps (HashMap) and hash sets (HashSet) are incredibly useful for efficient lookups.
+
+Two Sum (No. 1): (Reiterated, as it's a prime example of HashMap usage)
+
+Contains Duplicate (No. 217): (Reiterated, as HashSet is an optimal solution)
+
+Valid Anagram (No. 242): (Reiterated, for character counting with HashMap)
+
+Happy Number (No. 202): Involves detecting cycles, which can be done with a HashSet.
