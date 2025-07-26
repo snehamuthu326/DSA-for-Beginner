@@ -1,0 +1,26 @@
+import java.util.HashSet;
+class Solution {
+    public boolean isHappy(int n) {
+        
+        HashSet<Integer> h = new HashSet<>();
+
+        while( n != 1 && !h.contains(n))
+        {
+            h.add(n);
+            n = sum(n);
+        } 
+        
+        return n == 1;
+    }
+    private int sum(int a)
+    {
+        int sq = 0;
+        while(a > 0)
+        {
+            int rem = a%10;
+            sq += rem*rem;
+            a /= 10;  
+        }
+        return sq;
+    }
+}
