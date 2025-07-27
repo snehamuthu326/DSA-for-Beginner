@@ -49,3 +49,15 @@ Contains Duplicate (No. 217): (Reiterated, as HashSet is an optimal solution)
 Valid Anagram (No. 242): (Reiterated, for character counting with HashMap)
 
 Happy Number (No. 202): Involves detecting cycles, which can be done with a HashSet.
+
+# IV. Linked Lists
+
+Linked lists are a different way to organize data. These problems introduce pointer manipulation.
+
+Reverse Linked List (No. 206): A fundamental linked list problem.
+
+Merge Two Sorted Lists (No. 21): Merging two sorted linked lists.
+
+Linked List Cycle (No. 141): Detecting cycles in a linked list using the fast and slow pointer approach.
+
+
