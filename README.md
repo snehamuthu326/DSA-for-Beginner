@@ -60,4 +60,14 @@ Merge Two Sorted Lists (No. 21): Merging two sorted linked lists.
 
 Linked List Cycle (No. 141): Detecting cycles in a linked list using the fast and slow pointer approach.
 
+# V. Basic Math / Logic
+
+These problems test your understanding of basic arithmetic, conditions, and loops.
+
+Palindrome Number (No. 9): Checking if a number is a palindrome without converting to string.
+
+Fizz Buzz (No. 412): A classic programming interview question that tests basic conditional logic.
+
+Roman to Integer (No. 13): Converting Roman numerals to integers, good for handling special cases and HashMap lookups.
+
 
