@@ -70,4 +70,49 @@ Fizz Buzz (No. 412): A classic programming interview question that tests basic c
 
 Roman to Integer (No. 13): Converting Roman numerals to integers, good for handling special cases and HashMap lookups.
 
+# VI. Recursion (Basic)
+
+Recursion can be a bit tricky at first, but it's a powerful concept. Start with simple recursive problems to grasp the idea of base cases and recursive calls.
+
+Factorial (Custom Problem - not on LeetCode but good practice): Write a function to calculate the factorial of a number using recursion. This is a common introductory problem.
+
+Fibonacci Number (No. 509): Calculate the nth Fibonacci number. This is a classic recursive problem that also introduces memoization/dynamic programming concepts later.
+
+Merge Two Sorted Lists (No. 21): (Reiterated, as it can also be solved elegantly using recursion)
+
+# VII. Two Pointers
+
+The two-pointer technique is incredibly useful for array and string problems, often leading to more efficient solutions.
+
+Reverse String (No. 344): (Reiterated, as it's a perfect example of two pointers)
+
+Valid Palindrome (No. 125): Checking if a string is a palindrome, ignoring non-alphanumeric characters and case.
+
+Two Sum II - Input Array Is Sorted (No. 167): Similar to Two Sum, but the sorted array allows for a two-pointer approach.
+
+Move Zeroes (No. 283): (Reiterated, as it's often solved with two pointers)
+
+# VIII. Basic Data Structures (Introduction)
+
+While you've used some in the problems above, it's good to be explicit about common Java data structures.
+
+ArrayList/Dynamic Arrays: Problems where the size of your collection might change.
+
+Any problem where you build a list of results and don't know the final size beforehand (e.g., finding all prime numbers up to N).
+
+Stack: LIFO (Last-In, First-Out) structure.
+
+Valid Parentheses (No. 20): A classic problem for using a stack to check for balanced parentheses.
+
+Queue: FIFO (First-In, First-Out) structure.
+
+While fewer "easy" problems explicitly require a Queue, understanding it is crucial for Breadth-First Search (BFS) later on.
+
+# IX. Bit Manipulation (Optional but Good to Know)
+
+Bit manipulation can lead to very efficient solutions for certain problems. For a beginner, focus on understanding the basic operators.
+
+Single Number (No. 136): (Reiterated, as the XOR approach is a clever bit manipulation solution)
+
+Number of 1 Bits (No. 191): Counting set bits in an integer.
 
